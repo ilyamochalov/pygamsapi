@@ -1,0 +1,7 @@
+*.pyc
+.cache
+report.xml
+build/
+dist/
+*.egg-info/
+.idea/
